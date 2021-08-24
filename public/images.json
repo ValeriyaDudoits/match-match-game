@@ -1,0 +1,118 @@
+[
+    {
+        "category": "cats",
+        "images": [
+            "cat1.jpg",
+            "cat2.jpg",
+            "cat3.jpg",
+            "cat4.jpg",
+            "cat5.jpg",
+            "cat6.jpg",
+            "cat7.jpg",
+            "cat8.jpg",
+            "cat9.jpg",
+            "cat10.jpg",
+            "cat11.jpg",
+            "cat12.jpg",
+            "cat13.jpg",
+            "cat14.jpg",
+            "cat15.jpg",
+            "cat16.jpg",
+            "cat17.jpg",
+            "cat18.jpg"
+        ]
+    },
+    {
+        "category": "art",
+        "images": [
+            "art1.jpg",
+            "art2.jpg",
+            "art3.jpg",
+            "art4.jpg",
+            "art5.jpg",
+            "art6.jpg",
+            "art7.jpg",
+            "art8.jpg",
+            "art9.jpg",
+            "art10.jpg",
+            "art11.jpg",
+            "art12.jpg",
+            "art13.jpg",
+            "art14.jpg",
+            "art15.jpg",
+            "art16.jpg",
+            "art17.jpg",
+            "art18.jpg"
+        ]
+    },
+    {
+        "category": "flowers",
+        "images": [
+            "flower1.jpg",
+            "flower2.jpg",
+            "flower3.jpg",
+            "flower4.jpg",
+            "flower5.jpg",
+            "flower6.jpg",
+            "flower7.jpg",
+            "flower8.jpg",
+            "flower9.jpg",
+            "flower10.jpg",
+            "flower11.jpg",
+            "flower12.jpg",
+            "flower13.jpg",
+            "flower14.jpg",
+            "flower15.jpg",
+            "flower16.jpg",
+            "flower17.jpg",
+            "flower18.jpg"
+        ]
+    },
+    {
+        "category": "mountains",
+        "images": [
+            "mount1.jpg",
+            "mount2.jpg",
+            "mount3.jpg",
+            "mount4.jpg",
+            "mount5.jpg",
+            "mount6.jpg",
+            "mount7.jpg",
+            "mount8.jpg",
+            "mount9.jpg",
+            "mount10.jpg",
+            "mount11.jpg",
+            "mount12.jpg",
+            "mount13.jpg",
+            "mount14.jpg",
+            "mount15.jpg",
+            "mount16.jpg",
+            "mount17.jpg",
+            "mount18.jpg"
+        ]
+    },
+    {
+        "category": "sea",
+        "images": [
+            "sea1.jpg",
+            "sea2.jpg",
+            "sea3.jpg",
+            "sea4.jpg",
+            "sea5.jpg",
+            "sea6.jpg",
+            "sea7.jpg",
+            "sea8.jpg",
+            "sea9.jpg",
+            "sea10.jpg",
+            "sea11.jpg",
+            "sea12.jpg",
+            "sea13.jpg",
+            "sea14.jpg",
+            "sea15.jpg",
+            "sea16.jpg",
+            "sea17.jpg",
+            "sea18.jpg"
+        ]
+    }
+]
+

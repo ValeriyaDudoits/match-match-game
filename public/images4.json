@@ -1,0 +1,47 @@
+[
+    {
+        "category": "cats",
+        "images": [
+            "cat1.jpg",
+            "cat2.jpg",
+            "cat3.jpg",
+            "cat4.jpg"
+        ]
+    },
+    {
+        "category": "art",
+        "images": [
+            "art1.jpg",
+            "art2.jpg",
+            "art3.jpg",
+            "art4.jpg"
+        ]
+    },
+    {
+        "category": "flowers",
+        "images": [
+            "flower1.jpg",
+            "flower2.jpg",
+            "flower3.jpg",
+            "flower4.jpg"
+        ]
+    },
+    {
+        "category": "mountains",
+        "images": [
+            "mount1.jpg",
+            "mount2.jpg",
+            "mount3.jpg",
+            "mount4.jpg"
+        ]
+    },
+    {
+        "category": "sea",
+        "images": [
+            "sea1.jpg",
+            "sea2.jpg",
+            "sea3.jpg",
+            "sea4.jpg"
+        ]
+    }
+]
